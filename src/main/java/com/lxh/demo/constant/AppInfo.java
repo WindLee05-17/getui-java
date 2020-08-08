@@ -7,11 +7,11 @@ import com.gexin.rp.sdk.http.IGtPush;
  * app的信息
  */
 public class AppInfo {
-    public static final String APPID = "YLkQlPKsNcA9DDyqf7tcG4";
-    public static final String APPKEY = "gU6EETIzQj6Vt4tMXhArR1";
-    public static final String MASTERSECRET = "BTtMJqmRS87Leo96D5jFp8";
+    public static final String APPID = "xxx";
+    public static final String APPKEY = "xxx";
+    public static final String MASTERSECRET = "xxx";
 
-    public static final String CID = "eca0a0321cf5312dc6295a35f4701682";
+    public static final String CID = "xxx";
     public static final String CID_2 = "";
 
     public static final String DEVICETOKEN = "";
